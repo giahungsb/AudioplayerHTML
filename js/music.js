@@ -248,7 +248,15 @@ let allMusic = [
     singer:  'Chang Mie' ,
     src: 'roitoiluon',
     image: 'roitoiluon'
+  },
+
+  {
+    name: 'Ngày Chưa Giông Bão',
+    singer:  'Bùi Lan Hương' ,
+    src: 'Ngaychuagiongbao',
+    image: 'Ngaychuagiongbao'
   }
+
 
   
 ];
