@@ -255,6 +255,13 @@ let allMusic = [
     singer:  'Bùi Lan Hương' ,
     src: 'Ngaychuagiongbao',
     image: 'Ngaychuagiongbao'
+  },
+
+  {
+    name: '海市蜃楼',
+    singer:  'Hứa Lam Tâm' ,
+    src: 'aoanh',
+    image: 'aoanh'
   }
 
 
