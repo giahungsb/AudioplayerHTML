@@ -341,6 +341,22 @@ let allMusic = [
     src: 'giacmokhongthedanhthuc',
     image: 'giacmokhongthedanhthuc'
 
+  },
+
+  {
+    name: 'Từ Cửu Môn Hồi Ức' , 
+    singer:  'Đẳng Thập Yêu Quân' ,
+    src: 'TuCuuMonHoiUc',
+    image: 'tucuumonhoiuc'
+
+  },
+
+  {
+    name: 'Cô Độc Vương' , 
+    singer:  'Hải Lai A Mộc' ,
+    src: 'CoDocDeVuonG',
+    image: 'CoDocDeVuonG'
+
   }
 
 
