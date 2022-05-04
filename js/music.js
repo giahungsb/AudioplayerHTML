@@ -319,6 +319,7 @@ let allMusic = [
     src: 'xichlinh',
     image: 'xichlinh'
   },
+  
   {
     name: 'Bất Quá Nhân Gian' , 
     singer:  'Hải Lai A Mộc' ,
@@ -326,6 +327,21 @@ let allMusic = [
     image: 'batquanhangian'
   },
 
+  {
+    name: 'Quẻ Bói' , 
+    singer:  'Thôi Tử Cách' ,
+    src: 'queboi',
+    image: 'queboi'
+
+  },
+
+  {
+    name: 'Giấc Mơ Không Thể Đánh Thức' , 
+    singer:  'Phương Thập Nhị' ,
+    src: 'giacmokhongthedanhthuc',
+    image: 'giacmokhongthedanhthuc'
+
+  }
 
 
   
