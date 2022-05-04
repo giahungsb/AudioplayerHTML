@@ -258,11 +258,74 @@ let allMusic = [
   },
 
   {
-    name: '海市蜃楼',
+    name: 'Ảo Ảnh',
     singer:  'Hứa Lam Tâm' ,
     src: 'aoanh',
     image: 'aoanh'
-  }
+  },
+
+  {
+    name: 'Tay Trái Chỉ Trăng' , 
+    singer:  'Tát Đỉnh Đỉnh' ,
+    src: 'taytraichitrang',
+    image: 'taytraichitrang'
+  },
+
+  {
+    name: '  Lạnh Lẽo' , 
+    singer:  ' Dương Tông Vỹ ft Trương Bích Thần' ,
+    src: 'lanhleo',
+    image: 'lanhleo'
+  },
+
+  {
+    name: '  Phi Điểu Và Ve Sầu' , 
+    singer:  ' Nhậm Nhiên' ,
+    src: 'phidieuvavesau',
+    image: 'phidieuvavesau'
+  },
+
+  {
+    name: 'Yến Bay Không Nghỉ' , 
+    singer:  'Cher Chiang' ,
+    src: 'yenvohiet',
+    image: 'yenvohiet'
+  },
+
+  {
+    name: 'Thời Không Sai Lệch' , 
+    singer:  'Ngải Thần' ,
+    src: 'thoikhongsailech',
+    image: 'thoikhongsailech'
+  },
+
+  {
+    name: 'Cầu Phật' , 
+    singer:  'Đồng Lệ' ,
+    src: 'cauphat',
+    image: 'cauphat'
+  },
+
+  {
+    name: ' Ác Ma Đến Từ Thiên Đường ' , 
+    singer:  'Đặng Tử Kỳ (G.E.M)' ,
+    src: 'acmadentuthienduong',
+    image: 'acmadentuthienduong'
+  },
+
+  {
+    name: 'Xích Linh' , 
+    singer:  'Đẳng Thập Yêu Quân' ,
+    src: 'xichlinh',
+    image: 'xichlinh'
+  },
+  {
+    name: 'Bất Quá Nhân Gian' , 
+    singer:  'Hải Lai A Mộc' ,
+    src: 'batquanhangian',
+    image: 'batquanhangian'
+  },
+
 
 
   
