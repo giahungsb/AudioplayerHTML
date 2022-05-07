@@ -356,7 +356,13 @@ let allMusic = [
     singer:  'Hải Lai A Mộc' ,
     src: 'CoDocDeVuonG',
     image: 'CoDocDeVuonG'
+  },
 
+  {
+    name: 'Thủy Triều' , 
+    singer:  ' IN-K, An Tô Vũ, Phu Mộng Đồng ' ,
+    src: 'thuytrieu',
+    image: 'thuytrieu'
   }
 
 
