@@ -363,8 +363,14 @@ let allMusic = [
     singer:  ' IN-K, An Tô Vũ, Phu Mộng Đồng ' ,
     src: 'thuytrieu',
     image: 'thuytrieu'
-  }
+  },
 
+  { 
+     name: 'Giấc Mơ Thần Tiên' ,  
+     singer:'Miu Lê ' , 
+     src: 'giacmothantien', 
+     image: 'giacmothantien' 
+   }
 
   
 ];
